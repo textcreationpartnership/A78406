@@ -1,0 +1,678 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cavaliers letanie. Lately composd by a vvell-willer to his Majesties person, and all his most loyall subjects. Very fitting to be observ'd, and made use of, by all who desire deliverance from the damnable, execrable, unparalell'd, and not before heard of, detestable actions, proceedings, designes, humors, conditions, votes and ordinances. Now fully, and most exactly practised; delivered, and divulged, by the only, (yet illegall) governours, of these our sad, desperate, distracted times.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78406</idno>
+            <idno type="STC">Wing C1575</idno>
+            <idno type="STC">Thomason E425_21</idno>
+            <idno type="STC">ESTC R204564</idno>
+            <idno type="EEBO-CITATION">99864039</idno>
+            <idno type="PROQUEST">99864039</idno>
+            <idno type="VID">161440</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78406)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161440)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E425[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cavaliers letanie. Lately composd by a vvell-willer to his Majesties person, and all his most loyall subjects. Very fitting to be observ'd, and made use of, by all who desire deliverance from the damnable, execrable, unparalell'd, and not before heard of, detestable actions, proceedings, designes, humors, conditions, votes and ordinances. Now fully, and most exactly practised; delivered, and divulged, by the only, (yet illegall) governours, of these our sad, desperate, distracted times.</title>
+                  <author>Chamberlayne, William, 1619-1689, attributed name.</author>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Sometimes attributed to William Chamberlayne.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Feb: 7"; the 8 in imprint date crossed out and date altered to 1647.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161440:1" rendition="simple:additions"/>
+            <p>THE CAVALIERS Letanie.</p>
+            <p>Lately compos'd by a vvell-willer to his Majeſties Perſon, and all his moſt Loyall Subjects.</p>
+            <p>Very fitting to be obſerv'd, and made uſe of, by all who deſire Deliverance FROM, The damnable, execrable, unpara<g ref="char:EOLhyphen"/>lell'd, and not before heard of, Deteſtable Actions, Proceedings, Deſignes, Humors, Conditions, Votes and Ordinances.</p>
+            <p>Now fully, and moſt exactly practiſed, delivered, and divulged, by the only, (yet illegall) Governours, of theſe our ſad, deſperate, diſtracted TIMES.</p>
+            <q>
+               <p>Qui legit, intelligat.</p>
+               <p>(Seu)</p>
+               <p>Qui habit aures ad audiendum, audiat.</p>
+            </q>
+            <p>Printed in the Yeare 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="litany">
+            <pb n="1" facs="tcp:161440:2"/>
+            <head>The Caviliers LETANIE.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">F</seg>Rom th' envious ſpiteful Critick that reads.</l>
+               <l>My ignorant Verſes: from al ſort of beads,</l>
+               <l>From putrified
+<note n="*" place="margin">Such as the houſe of Com<g ref="char:EOLhyphen"/>mons.</note> Members without any heads.</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From Hags, Hobgoblins, and diveliſh Witches,</l>
+               <l>From damnable Vſurers with all their riches.</l>
+               <l>From Alderman <hi>Atkins</hi> beſhiting his breeches,</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From the ſort of Rogues which are in <hi>White-hall,</hi>
+               </l>
+               <l>From
+<note n="*" place="margin">As <hi>Crumwell</hi> doth.</note> ſoaring too high, and then for to fal,</l>
+               <l>From the hands of <hi>Mol-cutpurſe;</hi> the Devil and all</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From being whipt on laſht in <hi>Bridewell,</hi>
+               </l>
+               <l>From vaulting or leaping in Dungeon or Cel,</l>
+               <l>From ſinging and roaring and ſuch like in Hell,</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From riding and ſitting the great wooden Horſe</l>
+               <l>From cruell Tyrants 'thout any remorſe</l>
+               <l>From too much adhering with 'th Parliaments force,</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From brawling and fighting, and drawing of ſwords,</l>
+               <l>From being preſt to death between Boards,</l>
+               <l>From the houſe of perjur'd deteſtable Lords,</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From the fury of a Lyon, the paw of a Bare,</l>
+               <l>From a drunken-fellow that naught doth but ſweare,</l>
+               <l>From the mercileſſe
+<note n="*" place="margin">The Army.</note> Tygers that lye every wher<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From the Laws of the Land or ought elſe to defile,</l>
+               <l>From the Parliaments baſe and fraudulent guile,</l>
+               <pb n="2" facs="tcp:161440:2"/>
+               <l>From the words you have ſtaid a terrible while,</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From ſaying the Pox or the Divell take you,</l>
+               <l>From being commanded by the words ile make you,</l>
+               <l>From all execrations but evil forſake you,</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From an Iriſh crag, and a faint-hearted Scot,</l>
+               <l>From being back't or ſtew'd in a pot,</l>
+               <l>From the tearm and acts of a drunken ſot,</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From barbarous Rebels without any pity,</l>
+               <l>From the crafty &amp; ſubtile larg-conſcienc'd
+<note n="*" place="margin">Of Haber<g ref="char:EOLhyphen"/>daſhers and Goldſmiths Hall.</note> Commit<g ref="char:EOLhyphen"/>tee</l>
+               <l>From the grand incomparable
+<note n="*" place="margin">The Como<g ref="char:cmbAbbrStroke">̄</g>n-Counſell men.</note> Fooles of the City,</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From being by our
+<note n="*" place="margin">The Parlia<g ref="char:EOLhyphen"/>ment our ſup<g ref="char:EOLhyphen"/>poſed friends.</note> friends ſuppoſed betray'd,</l>
+               <l>From the ſin performing the acts by them made,</l>
+               <l>From being entrap'd by the ſnares of a Maid,</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From riding up <hi>Holborn</hi> hill in a boate,</l>
+               <l>From beggerly
+<note n="*" place="margin">He that cauſ'd a Counſel to ſit about his couc<g ref="char:EOLhyphen"/>kold-ſhip.</note> 
+                  <hi>Fenton</hi> that vapouring Goat,</l>
+               <l>From the ſenſeleſs ſtile of a Parliament Vote,</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From being any more thruſt out of the lines,</l>
+               <l>From the noiſe of a Dog that continually whines,</l>
+               <l>From ſpoyling the King, and ſuch fearfull deſignes.</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From walking within the compaſſe of Traytors,</l>
+               <l>From Levellers and Adjutators,</l>
+               <l>From being under the Parliament
+<note n="*" place="margin">The houſe of Commons.</note> praters,</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From too much keeping an evil decorum</l>
+               <l>From the manyfold Treaſons <hi>Parliamentorum,</hi>
+               </l>
+               <l>From <hi>Oliver Crumwell</hi>
+                  <note n="*" place="margin">Cheif of all miſcheif.</note> 
+                  <hi>Dux omnis malorum,</hi>
+               </l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <pb n="3" facs="tcp:161440:3"/>
+            <lg>
+               <l>From all pretended Reformation,</l>
+               <l>Such as we ſee in this our Nation,</l>
+               <l>From plundering, robbing, and ſuch tolleration,</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From ſuperſtitious Roſemary, and Bayes,</l>
+               <l>From the Fairy Nymphs, when dancing their Hayes,</l>
+               <l>From the
+<note n="*" place="margin">Both houſes of Parliament.</note> Counſel that naught but wickednes ſaies,</l>
+               <l>
+                  <hi>Liba nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From my Lord Mayors horſe that valiant beaſt,</l>
+               <l>From his deſperate rider, that
+<note n="*" place="margin">My Lord Mayers.</note> Aſſe at leaſt,</l>
+               <l>From commitring the ſin of keeping the
+<note n="*" place="margin">The Nativity of our Saviour</note> Feaſt,</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From the Parliaments fierce Ordinances,</l>
+               <l>From Tom of Bedlams frantick dances</l>
+               <l>From ruinning the kingdome, and ſuch like
+<note n="*" place="margin">As the ſouldi<g ref="char:EOLhyphen"/>ers make of it.</note> fancies,</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From being like the Army hated,</l>
+               <l>From the
+<note n="*" place="margin">The Priſon.</note> Throne in which <hi>Charls</hi> they've reinſtated,</l>
+               <l>From by the
+<note n="*" place="margin">O! that Com<g ref="char:EOLhyphen"/>mittee.</note> Committee to be ſequeſtrated,</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From the inhumane barbarous crimes</l>
+               <l>Committed theſe reformed times,</l>
+               <l>From a
+<note n="*" place="margin">As <hi>Harry Walker.</hi>
+                  </note> man whoſe pates repleat with rimes,</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From the treacherous
+<note n="*" place="margin">Againſt the King.</note> Votes of the houſe of Comm.</l>
+               <l>From the Parliaments accurſed
+<note n="*" place="margin">or Compoſi<g ref="char:EOLhyphen"/>tion.</note> ſummons,</l>
+               <l>From every ones ire, eſpecially a womans,</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From running into a Lyons den,</l>
+               <l>From a villain that takes in the hundred ten,</l>
+               <l>From the turbulent rout of Parliament men,</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From
+<note n="*" place="margin">The Parlia<g ref="char:EOLhyphen"/>ments.</note> that vile companies reſolutions,</l>
+               <l>From their wicked acts, words and pollutions,</l>
+               <pb n="4" facs="tcp:161440:3"/>
+               <l>From their unheard of perſecutions,</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From their many idle Declarations,</l>
+               <l>From their ſeverall Oathes and proteſtations,</l>
+               <l>From doing as they have done by three
+<note n="*" place="margin">England, Scot<g ref="char:EOLhyphen"/>land, and Ire<g ref="char:EOLhyphen"/>and.</note> Nations,</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From being a priſoner in the Tower,</l>
+               <l>From living under this tirannous power,</l>
+               <l>From the hands of the Army that al would devoure,</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From the Parliaments newly invented deluſions,</l>
+               <l>That have hatcht in the land ſo many confuſions,</l>
+               <l>I ſay from their ſubtile diſembling intruſions,</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From the houſe of Parliaments defendants,</l>
+               <l>From <hi>Ireton</hi> and his vile attendants,</l>
+               <l>From the falſe-hearted troop of baſe Independents,</l>
+               <l>
+                  <hi>Libra nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From the mighty
+<note n="*" place="margin">They are now raiſi<g ref="char:cmbAbbrStroke">̄</g>g new breaſt works or forts upon Tower hill a<g ref="char:EOLhyphen"/>gainſt the Sea<g ref="char:EOLhyphen"/>men.</note> fort which they have begun,</l>
+               <l>From falling into deep love with a Nun,</l>
+               <l>From them that have parted the father and ſonne;</l>
+               <l>
+                  <hi>Libera nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From the
+<note n="*" place="margin">As Sir <hi>Tho.</hi> againſt the K.</note> foot againſt the head that kicks,</l>
+               <l>From my Lord
+<note n="*" place="margin">otherwiſe L. Mayor.</note> Fool and his Chriſtmas tricks,</l>
+               <l>From all ſorts of pratling prophane Sciſmaticks,</l>
+               <l>
+                  <hi>Libera nos</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From Cornhill Conduit and Cheapſide Pumpe,</l>
+               <l>From Generall <hi>Cromwell</hi> that naturall
+<note n="*" place="margin">That Log of wood.</note> Lumpe,</l>
+               <l>From the company of thoſe that drink or the rump,</l>
+               <l>
+                  <hi>Libera nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From the Common Parliament mens p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rwaſions.</l>
+               <l>From domeſtick foes, and forraign invaſions,</l>
+               <l>From having a hand in theſe
+<note n="*" place="margin">In undoing the King and Kingdome.</note> matchleſſe occaſions,</l>
+               <l>
+                  <hi>Libera nos.</hi>
+               </l>
+            </lg>
+            <pb n="5" facs="tcp:161440:4"/>
+            <lg>
+               <l>From the many perfidious late inventions.</l>
+               <l>From Sir <hi>Thomas</hi> his manifold knowne intentions</l>
+               <l>From theſe evident nurtur'd vile diſſention,</l>
+               <l>
+                  <hi>Libera nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From being toſt in <hi>Cupids,</hi> blanket,</l>
+               <l>From abuſing the word of <hi>God be thanked,</hi>
+               </l>
+               <l>From the inviting unto Grand-<hi>Pluto's</hi> Bauquer,</l>
+               <l>
+                  <hi>Libera nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From hearing the Widdows and Orphans cryes,</l>
+               <l>From anſwering them juſt Parliament-wiſe,</l>
+               <l>From priſoning a King, and ſuch
+<note n="*" place="margin">As they e<g ref="char:EOLhyphen"/>ſteem</note> petty like toyes,</l>
+               <l>
+                  <hi>Libera nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From being clapt one the back with a writ,</l>
+               <l>From burthening our ſelves with the Citizens wit,</l>
+               <l>From running headlong into the pit,</l>
+               <l>
+                  <hi>Libera nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From the Generall Army their wicked intents,</l>
+               <l>To ruine the Kingdome unleſſe God prevents,</l>
+               <l>From ſuch evill, prophane, unjuſt
+<note n="*" place="margin">As our Engl. Parliament.</note> Parliaments,</l>
+               <l>
+                  <hi>Libera nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From the lower Houſe and the Houſe of Peers.</l>
+               <l>From our continuall cauſed fears,</l>
+               <l>From generally all Parliamenteers,</l>
+               <l>
+                  <hi>Libera nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From very Rogues, and the ragged
+<note n="*" place="margin">The common Souldiers.</note> Rout,</l>
+               <l>From
+<note n="*" place="margin">The totall Commanders.</note> ſurly Slaves, and Beggars ſtout,</l>
+               <l>From the baſe enterprize
+<note n="*" place="margin">
+                     <hi>Tom, Cromwel,</hi> and the reſt.</note> they goe about,</l>
+               <l>
+                  <hi>Libera nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From the ſeldome heard of innumerable curſes,</l>
+               <l>The Parliament have for filling their purſes,</l>
+               <l>From the Spoilers of Learning that ſhould be it Nurſes</l>
+               <l>
+                  <hi>Libera nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From Ludgate. Newgate, and Tower-hill,</l>
+               <l>From both the Compters, or what you will</l>
+               <pb n="6" facs="tcp:161440:4"/>
+               <l>From being
+<note n="*" place="margin">At the Seſſi<g ref="char:EOLhyphen"/>ons Barre.</note> arraign'd my prayers be ſtill,</l>
+               <l>
+                  <hi>Libera nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From the Soveraign, Sacred, three leg'd Tree,</l>
+               <l>From Black <hi>Tom,</hi> and his poſterity,</l>
+               <l>From th'Arch Executioner <hi>Gregory,</hi>
+               </l>
+               <l>
+                  <hi>Libera nos omnes.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That it may pleaſe thee, to re-inthrone</l>
+               <l>Our gracious King into his owne,</l>
+               <l>And keep him not
+<note n="*" place="margin">In priſon.</note> thus as never was knowne,</l>
+               <l>
+                  <hi>Quaeſumus te.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That thy totall Army may disband,</l>
+               <l>That they no more oppreſſe the Land:</l>
+               <l>That thou maieſt
+<note n="*" place="margin">Our Sove.</note> honour, and not command,</l>
+               <l>
+                  <hi>Quaeſumus te.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That all good things may ſettled be,</l>
+               <l>As before to poſterity;</l>
+               <l>That every one may live in's degree,</l>
+               <l>
+                  <hi>Quaeſumus te.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That the very ſcum of this our nation</l>
+               <l>Abas'd be from their oſtentation:</l>
+               <l>That they may be turn'd to their priſtine faſhion,</l>
+               <l>
+                  <hi>Quaeſumus te.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That the monſtrous noiſe and rumours of Warre,</l>
+               <l>Be from poor England removed far;</l>
+               <l>That this word of command be pronouc'd, as you were,</l>
+               <l>
+                  <hi>Quaeſumus te.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That this our Godly Parliament</l>
+               <l>Diſſolved be incontinent,</l>
+               <l>That thou'dſt make them honeſt againſt their intent<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>
+                  <hi>Quaeſumus te.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That the Common houſe of puny Brats,</l>
+               <l>Pe cull'd, be pick'd and waſht like Sprats,</l>
+               <l>That ſome of them ſuffer as often do
+<note n="*" place="margin">Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </note> Rats,</l>
+               <l>
+                  <hi>Quaeſumus te.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That every one his owne may enjoy,</l>
+               <pb n="7" facs="tcp:161440:5"/>
+               <l>That thy men the people no more may annoy,</l>
+               <l>That thy ſelfe and the reſt might ſay <hi>vive le Roy,</hi>
+               </l>
+               <l>
+                  <hi>Quaeſumus te.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That our Lord the King may weare his Crowne;</l>
+               <l>That Faction and Hereſies quite be put downe.</l>
+               <l>That to whom it belongs m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y have the
+<note place="margin">The clergy.</note> Gowne,</l>
+               <l>
+                  <hi>Quaeſumus te.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That the Kingdome, the City, Militia, Tower</l>
+               <l>Be yeelded to
+<note n="*" place="margin">The King.</note> him that ought to have the power,</l>
+               <l>That thoſe Vagabond ſlaves may not England de<g ref="char:EOLhyphen"/>voure,</l>
+               <l>
+                  <hi>Quaeſumus te.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That the manifeſt traitors w<hi rend="sup">ch</hi> have been the cauſe,</l>
+               <l>Of diſturbing the peace, and infringing the Laws.</l>
+               <l>May inſtead of the neck, be hang'd by the jawes,</l>
+               <l>
+                  <hi>Quaeſumus te.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That my good Lord Mayor for his valiant act,</l>
+               <l>In charging the conduit, himſelfe being backt,</l>
+               <l>May for his fierce valour
+<note n="*" place="margin">A whip and laſh.</note> receive what he lackt,</l>
+               <l>
+                  <hi>Quaeſumus te.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That all our turbulent times may ceaſe</l>
+               <l>That our honoured King may have a releaſe,</l>
+               <l>Without which 'tis in vain to expect any peace,</l>
+               <l>
+                  <hi>Quaeſumus te.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That of poor Widdowes you'd hear the ſad ditties,</l>
+               <l>That you'd baniſh extirpate all ſorts of Committees.</l>
+               <l>That peace may proclaim'd be through Country &amp; City</l>
+               <l>
+                  <hi>Quaeſumus te.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That thou thy ſelfe would'ſt deliver up all</l>
+               <l>The forts and forces great and ſmall,</l>
+               <l>That thou wouldſt deſcend, leaſt you catch a fall,</l>
+               <l>
+                  <hi>Quaeſumus te.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That laſt this viſible diſtraction</l>
+               <l>Be ſuddenly cur'd: that good ſatisfaction</l>
+               <l>Be giv'n for the Kings and Kingdomes exactions,</l>
+               <l>
+                  <hi>Quaeſumus te.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
